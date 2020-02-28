@@ -1,0 +1,11 @@
+{
+    "name": "yarn-v2-yarn-lock-in-node_modules",
+    "dependencies": {
+        "git-url-parse": "9.0.1"
+    },
+    "workspaces": {
+        "packages": [
+            "packages/*"
+        ]
+    }
+}
